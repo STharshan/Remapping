@@ -7,7 +7,7 @@ import "aos/dist/aos.css";
 const services = [
   {
     title: "Engine remapping",
-    desc: `Remove scuffs, scratches, and damage for wheels that look brand new.`,
+    desc: `optimizes your vehicle’s engine control unit (ECU) to improve power, torque, and fuel efficiency`,
     image: "/carpaint.avif",
     path: "/services/mechanical",
   },
